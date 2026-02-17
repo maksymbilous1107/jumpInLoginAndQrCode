@@ -1,4 +1,3 @@
-
 export interface UserProfile {
   id: string;
   first_name: string;
@@ -6,10 +5,10 @@ export interface UserProfile {
   email: string;
   school: string;
   dob: string;
-  last_checkin?: string;
+  last_checkin?: string | null;
 }
 
-export type AuthState = 'login' | 'register' | 'dashboard';
+export type AuthState = "login" | "register" | "dashboard";
 
 export interface SchoolOption {
   value: string;

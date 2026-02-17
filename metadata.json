@@ -1,7 +1,0 @@
-{
-  "name": "JumpIn QR Check-In",
-  "description": "A modern, glassmorphism-styled check-in application that allows users to register, view their profile, and scan QR codes for attendance tracking.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
