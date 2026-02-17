@@ -30,10 +30,12 @@ Decimal phases appear between their surrounding integers in numeric order.
   4. Tailwind CSS classes apply styling (not CDN warnings)
   5. Montserrat and Inter fonts render on pages
 
-**Plans**: TBD
+**Plans**: 3 plans in 3 waves
 
 Plans:
-- [ ] 01-01: [TBD during plan-phase]
+- [ ] 01-01-PLAN.md — Scaffold Next.js with Tailwind and Google Fonts
+- [ ] 01-02-PLAN.md — Migrate custom CSS and configure path aliases
+- [ ] 01-03-PLAN.md — Verify dev server and production build
 
 ---
 
